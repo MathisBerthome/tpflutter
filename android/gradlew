@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+export JAVA_HOME=/opt/app/jdk1.8.0_211
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
